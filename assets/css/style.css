@@ -33,7 +33,7 @@ ul{
 
 .button{
     grid-area: 3 / 3 / 4 / 4;
-    background-color: white;
+    background-color: rgb(218, 22, 22);
     border-radius: 50%;
     width: 10vh;
     font-size: calc(25px + 1vw);
